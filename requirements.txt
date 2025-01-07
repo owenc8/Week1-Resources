@@ -1,0 +1,6 @@
+pillow
+numpy
+scipy
+librosa
+pretty_midi
+matplotlib
